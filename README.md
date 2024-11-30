@@ -43,9 +43,10 @@ Apache Airflow is an open-source platform used to programmatically author, sched
   ```bash
   docker-compose up -d
 3. **Access the Airflow Web Interface**:
-Open your browser and navigate to:
+-Open your browser and navigate to:
+  ```bash
 http://localhost:8080
-Log in using the default credentials:
-Username: airflow
-Password: airflow
-Once logged in, you can manage workflows, schedule tasks, and monitor executions through the user-friendly web interface.
+-Log in using the default credentials:
+-Username: airflow
+-Password: airflow
+-Once logged in, you can manage workflows, schedule tasks, and monitor executions through the user-friendly web interface.
